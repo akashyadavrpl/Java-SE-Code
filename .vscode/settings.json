@@ -1,0 +1,20 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "code-runner.ignoreSelection": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    "editor.fontSize": 16,
+    "editor.mouseWheelZoom": true,
+    "files.exclude": {
+        "**/.class": true
+    },
+    "java.project.resourceFilters": [
+    
+        "node_modules",
+        ".git"
+    ]
+}
